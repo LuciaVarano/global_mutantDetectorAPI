@@ -12,4 +12,6 @@ __Nivel 2__: Creación de una API REST con Spring Boot, que expone un endpoint /
 
 __Nivel 3__: Integración con una base de datos H2 para almacenar los ADN verificados y un endpoint /stats que devuelve estadísticas en formato JSON
 
-
+### Diagrama de secuencia
+- IsMutant()
+<img width="1363" height="587" alt="image" src="https://github.com/user-attachments/assets/421d3ccb-30f0-4eed-8a19-0f0a52c911fe" />
