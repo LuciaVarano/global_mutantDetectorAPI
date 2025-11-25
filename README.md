@@ -14,4 +14,4 @@ __Nivel 3__: Integración con una base de datos H2 para almacenar los ADN verifi
 
 ### Diagrama de secuencia
 - IsMutant()
-<img width="1363" height="587" alt="image" src="https://github.com/user-attachments/assets/421d3ccb-30f0-4eed-8a19-0f0a52c911fe" />
+
